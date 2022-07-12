@@ -1,0 +1,49 @@
+body {
+  /* margin: 0px; */
+  /* padding: 50px; */
+  margin: 50px;
+  font-family: Arial, sans-serif;
+}
+
+/* div {
+  max-width: 1600px;
+  margin: 0 auto;
+} */
+
+h1 {
+  color: #111;
+  text-align: center;
+}
+
+.bg-div {
+  /* margin-bottom: 20px; */
+  background: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+h2 {
+  /* margin-top: 0px; */
+  margin: 0px;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+span {
+  color: #febe01;
+}
+
+a {
+  background: #febe01;
+  color: #320;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+/* conteudo comentado: errado ou sem necessidade */
